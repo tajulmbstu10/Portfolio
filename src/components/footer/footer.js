@@ -17,7 +17,7 @@ export default class Footer extends Component {
                                 <li><a href="#"><i className="fa fa-skype" /></a></li>
                             </ul>
                             <ul className="copyright">
-                                <li>© Copyright </li>
+                                {/* <li>© Copyright </li> */}
                                 <li>tajulmbstu@gmail.com</li>
                                 {/* <li>Design by <a title="Styleshout" href="#">...</a></li> */}
                             </ul>
