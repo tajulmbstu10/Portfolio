@@ -188,6 +188,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
+   min-height: 100vh;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -322,7 +323,21 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-
+.MongoDB{
+   width: 70%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.React{
+   width: 85%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+.NodeJS{
+   width: 78%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
 .JavaScript {
   	width: 80%;
   	-moz-animation: photoshop 2s ease;
