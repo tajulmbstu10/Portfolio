@@ -68,6 +68,9 @@ export default class Resume extends Component {
                             <div className="bars">
                                 <ul className="skills">
                                     <li><span className="bar-expand JavaScript" /><em>JavaScript</em></li>
+                                    <li><span className="bar-expand NodeJS" /><em>NodeJS (Rest API)</em></li>
+                                    <li><span className="bar-expand React" /><em>React</em></li>
+                                    <li><span className="bar-expand MongoDB" /><em>MongoDB</em></li>
                                     <li><span className="bar-expand Java" /><em>Java</em></li>
                                     <li><span className="bar-expand PHP" /><em>PHP</em></li>
                                     <li><span className="bar-expand css" /><em>CSS3</em></li>
